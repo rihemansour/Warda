@@ -1,7 +1,7 @@
 {
     "intents": [
         {
-            "tag": "greeting",
+            "tags": "greeting",
             "patterns": [
                 "Hi",
                 "Hey",
@@ -18,7 +18,7 @@
             ]
         },
         {
-            "tag": "goodbye",
+            "tags": "goodbye",
             "patterns": [
                 "Bye",
                 "See you later",
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "tag": "thanks",
+            "tags": "thanks",
             "patterns": [
                 "Thanks",
                 "Thank you",
